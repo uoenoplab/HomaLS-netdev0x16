@@ -1,0 +1,27 @@
+.*.swp
+\#*#
+*.pyc
+*.o
+*.hi
+*.dump
+*.log
+*.rej
+*.orig
+*.patch
+*.diff
+.tags*
+.deps
+*.pdf
+
+# Ignore IDE files
+/.idea/
+/nbproject/
+
+reports/
+
+.vscode/
+
+util_echo/echo.o
+util_echo/homa_api.o
+util_echo/echo_client
+util_echo/echo_server
